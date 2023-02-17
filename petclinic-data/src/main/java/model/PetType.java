@@ -1,4 +1,4 @@
-package marco.petclinic.marcopetclinic.model;
+package model;
 
 public class PetType {
 
