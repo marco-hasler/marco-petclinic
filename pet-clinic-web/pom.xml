@@ -4,7 +4,7 @@
     <parent>
         <groupId>marco.petclinic</groupId>
         <artifactId>marco-petclinic</artifactId>
-        <version>0.0.2</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
 
     <artifactId>pet-clinic-web</artifactId>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>marco.petclinic</groupId>
             <artifactId>petclinic-data</artifactId>
-            <version>0.0.2</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

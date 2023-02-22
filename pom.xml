@@ -9,7 +9,7 @@
     </parent>
     <groupId>marco.petclinic</groupId>
     <artifactId>marco-petclinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>marco-petclinic</name>
     <description>marco-petclinic</description>
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:marco-hasler/marco-petclinic.git</developerConnection>
-      <tag>marco-petclinic-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
